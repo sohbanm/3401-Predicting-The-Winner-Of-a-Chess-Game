@@ -7,3 +7,5 @@ https://www.kaggle.com/datasets/ulrikthygepedersen/online-chess-games/
 
 Below is a link to our Jupyter Notebook on Kaggle:
 https://www.kaggle.com/code/gavrielkirichenko/eecs3401-project
+
+Used: Python, Scikit-learn, Pandas, NumPy, Matplotlib
